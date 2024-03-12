@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glava 6 zadanie", "Glava 6 zadanie\Glava 6 zadanie.csproj", "{511B3E04-39CE-4E96-9220-24C408CAD1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511B3E04-39CE-4E96-9220-24C408CAD1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511B3E04-39CE-4E96-9220-24C408CAD1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511B3E04-39CE-4E96-9220-24C408CAD1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511B3E04-39CE-4E96-9220-24C408CAD1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB5E5A23-C0C4-40F6-BE30-8D00269873A0}
+	EndGlobalSection
+EndGlobal
